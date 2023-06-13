@@ -3,7 +3,7 @@
 <!--
 **njwaamfdh/njwaamfdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Profile 
+Hello, my name is `Najwa`.
+i'm studying at University of Indonesia, major Statistics. Currently studying and looking for a internship to develop my hard skills.
+Kindly contact me on instagram for keep in touch @njwamfdh
